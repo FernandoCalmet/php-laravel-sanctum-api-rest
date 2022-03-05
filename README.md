@@ -9,6 +9,12 @@
 
 🦄 Este proyecto es una muestra de una aplicación básica API REST utilizando Laravel Sanctum.
 
+## ✔️ CARACTERÍSTICAS
+
+- [x] Auth Login
+- [x] Create User
+- [x] Get User Authenticated
+
 ## ⚙️ INSTALACIÓN
 
 Ejecutar proyecto
