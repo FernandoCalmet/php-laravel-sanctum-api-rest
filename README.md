@@ -14,7 +14,7 @@
 Ejecutar proyecto
 
 ```bash
-npm run dev
+php artisan serve
 ```
 
 ### COMANDOS UTILIZADOS
@@ -31,10 +31,22 @@ Instalar laravel sanctum
 composer require laravel/sanctum
 ```
 
-Migración de base de datos
+Publicar la configuración y migración de los archivos de sanctum
+
+```bash
+php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+```
+
+Migrar base de datos
 
 ```bash
 php artisan migrate
+```
+
+Crear controlador de autenticación de usuario
+
+```bash
+php artisan make:controller AuthController
 ```
 
 ## 📄 LICENCIA
