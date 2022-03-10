@@ -17,6 +17,12 @@
 
 ## ⚙️ INSTALACIÓN
 
+Clonar proyecto
+
+```bash
+gh repo clone FernandoCalmet/PHP-Laravel-Sanctum-API-REST
+```
+
 Ejecutar proyecto
 
 ```bash
