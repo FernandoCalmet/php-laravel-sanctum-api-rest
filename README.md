@@ -20,7 +20,7 @@
 Clonar proyecto
 
 ```bash
-gh repo clone FernandoCalmet/PHP-Laravel-Sanctum-API-REST
+gh repo clone FernandoCalmet/php-laravel-sanctum-api-rest
 ```
 
 Ejecutar proyecto
